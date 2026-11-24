@@ -1,0 +1,5 @@
+{
+ "first_belt": "First belt connected. Check the receiving machine has room and the right inputs. One moving item is a promising start.",
+ "drill_full": "The drill has filled its output space. Empty it or connect a belt so it can get back to work.",
+ "no_power": "This machine is outside your power network. Move it closer, or extend a connected line of pylons to reach it."
+}

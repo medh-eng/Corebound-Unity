@@ -1,0 +1,21 @@
+{
+ "escapeModule": {
+  "forward": -5.6,
+  "right": -1.6,
+  "yawDeg": 0,
+  "tiltDeg": 9,
+  "scale": 1.35,
+  "sink": 0.35,
+  "radius": 2.4
+ },
+ "cryoPod": {
+  "forward": -1.7,
+  "right": -2.3,
+  "yawDeg": 90,
+  "tiltDeg": 4,
+  "scale": 1,
+  "sink": 0.12,
+  "radius": 1.1
+ },
+ "airRadius": 3.2
+}

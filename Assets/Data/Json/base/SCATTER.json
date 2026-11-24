@@ -1,0 +1,33 @@
+{
+ "banyan": {
+  "count": 26,
+  "minSpacing": 24,
+  "minDegFromBase": 15
+ },
+ "mushroomTree": {
+  "count": 85,
+  "minSpacing": 9,
+  "minDegFromBase": 6.5
+ },
+ "smallMushroom": {
+  "count": 420
+ },
+ "bigRock": {
+  "count": 120
+ },
+ "smallRock": {
+  "count": 170
+ },
+ "crystal": {
+  "count": 120
+ },
+ "fern": {
+  "count": 2400
+ },
+ "grass": {
+  "count": 16000
+ },
+ "lotus": {
+  "count": 260
+ }
+}

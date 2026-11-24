@@ -1,0 +1,607 @@
+[
+ {
+  "group": "research",
+  "file": "research_auto_drill.mp3",
+  "text": "Auto-drill research complete. Build one over rich ground, and let it collect ore while you plan the next step."
+ },
+ {
+  "group": "research",
+  "file": "research_conveyor.mp3",
+  "text": "Conveyors ready. Connect a drill to the machine that needs its output. Your backpack may finally have a quiet afternoon."
+ },
+ {
+  "group": "research",
+  "file": "research_power_pylon.mp3",
+  "text": "Power pylons ready. Link them to your existing network before building machines farther from the shelter."
+ },
+ {
+  "group": "research",
+  "file": "research_storage_silo.mp3",
+  "text": "Storage silos ready. Give your belts somewhere to deliver spare materials. The floor has served admirably, but lacks organisation."
+ },
+ {
+  "group": "research",
+  "file": "research_coal_burner.mp3",
+  "text": "Coal power is available. It works through the night, but the smoke is a cost. Keep improving your solar supply."
+ },
+ {
+  "group": "research",
+  "file": "research_silicon_furnace.mp3",
+  "text": "Silicon furnace ready. Feed it silica and carbon, then use the silicon to research better equipment."
+ },
+ {
+  "group": "research",
+  "file": "research_backpack_plus.mp3",
+  "text": "Four more backpack slots. A remarkable advance in the science of putting things somewhere."
+ },
+ {
+  "group": "research",
+  "file": "research_drill_plus.mp3",
+  "text": "Drill upgrade complete. Your auto-drills work faster now. Check that their belts and storage can keep up."
+ },
+ {
+  "group": "research",
+  "file": "research_solar_plus.mp3",
+  "text": "Solar output improved. Your lotuses make more power in daylight. Keep enough battery storage for the night."
+ },
+ {
+  "group": "machine",
+  "file": "machine_electrolyzer.mp3",
+  "text": "Electrolyzer placed. Give it ice and power near the shelter. Water supplies the oxygen; electricity does the separating."
+ },
+ {
+  "group": "machine",
+  "file": "machine_battery.mp3",
+  "text": "Battery placed. Let spare power charge it before sunset. An empty battery is chiefly an optimistic box."
+ },
+ {
+  "group": "machine",
+  "file": "machine_solar_lotus.mp3",
+  "text": "Solar lotus placed. Daylight becomes electricity. Pair it with a battery to keep useful work going after sunset."
+ },
+ {
+  "group": "machine",
+  "file": "machine_smelter.mp3",
+  "text": "Smelter placed. Load iron ore and carbon, and check its power supply. Iron plates come with smoke; plan accordingly."
+ },
+ {
+  "group": "machine",
+  "file": "machine_research_station.mp3",
+  "text": "Research station placed. Choose a project and load its parts. It will need power while it works."
+ },
+ {
+  "group": "machine",
+  "file": "machine_auto_drill.mp3",
+  "text": "Auto-drill placed. Check the resource beneath it, then arrange a belt or regular collection for its output."
+ },
+ {
+  "group": "machine",
+  "file": "machine_storage_silo.mp3",
+  "text": "Storage silo placed. Connect an incoming belt to store materials, and an outgoing belt when another machine needs them."
+ },
+ {
+  "group": "machine",
+  "file": "machine_power_pylon.mp3",
+  "text": "Pylon placed. Check its connection to a powered network. A tall pole cannot generate electricity through confidence alone."
+ },
+ {
+  "group": "machine",
+  "file": "machine_coal_burner.mp3",
+  "text": "Coal burner placed. Carbon will keep it running after sunset. Watch the air as carefully as the power meter."
+ },
+ {
+  "group": "machine",
+  "file": "machine_silicon_furnace.mp3",
+  "text": "Silicon furnace placed. It needs silica, carbon and power. The silicon will help improve your drills, backpack and solar cells."
+ },
+ {
+  "group": "event",
+  "file": "event_first_belt.mp3",
+  "text": "First belt connected. Check the receiving machine has room and the right inputs. One moving item is a promising start."
+ },
+ {
+  "group": "event",
+  "file": "event_drill_full.mp3",
+  "text": "The drill has filled its output space. Empty it or connect a belt so it can get back to work."
+ },
+ {
+  "group": "event",
+  "file": "event_no_power.mp3",
+  "text": "This machine is outside your power network. Move it closer, or extend a connected line of pylons to reach it."
+ },
+ {
+  "group": "events",
+  "file": "events_lowOxygen.mp3",
+  "text": "Oxygen below twenty-five percent. Get to the shelter, or breathe a canister with Q."
+ },
+ {
+  "group": "events",
+  "file": "events_blackout.mp3",
+  "text": "You blacked out. I carried you back to the shelter. Please do not make me do that again."
+ },
+ {
+  "group": "events",
+  "file": "events_nightFalls.mp3",
+  "text": "The sun is setting. Solar output dropping."
+ },
+ {
+  "group": "events",
+  "file": "events_sunrise.mp3",
+  "text": "Sunrise. Solar power returning."
+ },
+ {
+  "group": "events",
+  "file": "events_backpackFull.mp3",
+  "text": "Your backpack is full. Craft something, or we will need machines to carry more."
+ },
+ {
+  "group": "events",
+  "file": "events_tooClose.mp3",
+  "text": "Not here — I will not let you dig under the shelter."
+ },
+ {
+  "group": "events",
+  "file": "events_researched.mp3",
+  "text": "Research complete:"
+ },
+ {
+  "group": "events",
+  "file": "events_noPower.mp3",
+  "text": "That machine has no power. Build it within 30 m of the shelter, or carry power out with pylons."
+ },
+ {
+  "group": "events",
+  "file": "events_drillFull.mp3",
+  "text": "A drill is full and has stopped. Empty it, or give it a belt."
+ },
+ {
+  "group": "events",
+  "file": "events_fault.mp3",
+  "text": "Acid rain is getting into the machines. Walk up to any that need attention and press E."
+ },
+ {
+  "group": "events",
+  "file": "events_bandThriving.mp3",
+  "text": "The forest is thriving. Look — blooms are opening."
+ },
+ {
+  "group": "events",
+  "file": "events_bandStable.mp3",
+  "text": "The air is getting heavier. The forest is holding on."
+ },
+ {
+  "group": "events",
+  "file": "events_bandStressed.mp3",
+  "text": "The forest is wilting and the rain is turning sour. Build filters, or slow the smelters."
+ },
+ {
+  "group": "events",
+  "file": "events_bandCollapse.mp3",
+  "text": "Jivagraha is struggling to breathe. Something deep below is restless."
+ },
+ {
+  "group": "events",
+  "file": "events_bloomFirst.mp3",
+  "text": "A bloom. It grew because the world is clean. Research can use it."
+ },
+ {
+  "group": "goal",
+  "file": "goal_wake.mp3",
+  "text": "The hatch is responding. Take one breath, then follow the daylight."
+ },
+ {
+  "group": "goal",
+  "file": "goal_ice.mp3",
+  "text": "The shelter is sound, but its tank is empty. There is ice in the rocks nearby. Use your laser."
+ },
+ {
+  "group": "goal",
+  "file": "goal_iron.mp3",
+  "text": "Good. Ice gives us water, and water gives us air. We need iron to build the machine that splits it."
+ },
+ {
+  "group": "goal",
+  "file": "goal_silica.mp3",
+  "text": "Sandstone is mostly silica. Dig into the ground below the grass — I will count what you collect."
+ },
+ {
+  "group": "goal",
+  "file": "goal_craft_elec.mp3",
+  "text": "You have everything for an electrolyzer. It splits ice into oxygen and hydrogen."
+ },
+ {
+  "group": "goal",
+  "file": "goal_place_elec.mp3",
+  "text": "Set it close to the shelter so its air pipes reach inside."
+ },
+ {
+  "group": "goal",
+  "file": "goal_load_ice.mp3",
+  "text": "The solar lotus will power it while the sun is up."
+ },
+ {
+  "group": "goal",
+  "file": "goal_breathe.mp3",
+  "text": "Electrolysis complete. You are breathing. I consider that a good start."
+ },
+ {
+  "group": "goal",
+  "file": "goal_battery.mp3",
+  "text": "Night is coming. Solar power will fall to zero. I recommend a battery. And perhaps a blanket."
+ },
+ {
+  "group": "goal",
+  "file": "goal_night.mp3",
+  "text": "The forest is glowing. I have never seen anything like it. Or… I do not remember seeing it."
+ },
+ {
+  "group": "goal",
+  "file": "goal_smelter.mp3",
+  "text": "Iron plates mean real machines. Careful — smelting makes smoke, and this world notices."
+ },
+ {
+  "group": "goal",
+  "file": "goal_research_station.mp3",
+  "text": "Carrying everything by hand will not scale. A research station can work out machines that do it for us."
+ },
+ {
+  "group": "goal",
+  "file": "goal_research_drill.mp3",
+  "text": "Give the station the parts it asks for. It needs power while it thinks."
+ },
+ {
+  "group": "goal",
+  "file": "goal_place_drill.mp3",
+  "text": "The drill mines whatever is under it. Iron veins run in thin stripes; look for rich ground."
+ },
+ {
+  "group": "goal",
+  "file": "goal_research_belt.mp3",
+  "text": "A drill that nobody empties will fill up and stop. We need belts."
+ },
+ {
+  "group": "goal",
+  "file": "goal_belt.mp3",
+  "text": "A belt from the drill to the smelter, and the smelter never waits for you again."
+ },
+ {
+  "group": "goal",
+  "file": "goal_auto_plates.mp3",
+  "text": "Iron plates, made while you were not looking. I believe this is called a factory."
+ },
+ {
+  "group": "goal",
+  "file": "goal_huxley_message.mp3",
+  "text": "Return to the module and listen to Prof. Huxley's recording by the hatch. The factory can manage a short absence."
+ },
+ {
+  "group": "goal",
+  "file": "goal_translator.mp3",
+  "text": "Collect the translator beside the escape module, as Prof. Huxley suggested."
+ },
+ {
+  "group": "goal",
+  "file": "goal_memory_logs.mp3",
+  "text": "Follow the blue beams to find three memory logs scattered by the crash and read each one."
+ },
+ {
+  "group": "goal",
+  "file": "goal_harmony_look.mp3",
+  "text": "Our machines make smoke and stir up mud. The planet notices. Look at it from above."
+ },
+ {
+  "group": "goal",
+  "file": "goal_guardian_find.mp3",
+  "text": "Seismic tremor beneath the forest. The ground shifted, but the trees have not fallen."
+ },
+ {
+  "group": "goal",
+  "file": "goal_seismic_scan.mp3",
+  "text": "Hold Scan beside the valley to trace the roots beneath our drills."
+ },
+ {
+  "group": "goal",
+  "file": "goal_move_drills.mp3",
+  "text": "Move every drill away from the marked roots so they have room to settle."
+ },
+ {
+  "group": "goal",
+  "file": "goal_bio_filters_valley.mp3",
+  "text": "Supply bio-filters near the smog with water and power until the haze clears."
+ },
+ {
+  "group": "goal",
+  "file": "goal_replant_bloom.mp3",
+  "text": "Replant bloom spores around the exposed roots once the soil is clean, then give the new growth time to settle."
+ },
+ {
+  "group": "goal",
+  "file": "goal_valley_calm.mp3",
+  "text": "Stay a moment. The roots are loosening."
+ },
+ {
+  "group": "goal",
+  "file": "goal_done.mp3",
+  "text": "With Mooladri calm, Jivagraha's flora now absorbs pollution twice as quickly. An excellent arrangement for everyone."
+ },
+ {
+  "group": "intro",
+  "file": "intro_pod_open.mp3",
+  "text": "Cryo-pod seals hiss open. Custodian, our escape module has crashed, and you are awake. Welcome back."
+ },
+ {
+  "group": "intro",
+  "file": "intro_systems.mp3",
+  "text": "Systems online. Your memory may take a moment to settle. My filing system has not enjoyed the landing either."
+ },
+ {
+  "group": "intro",
+  "file": "intro_oxygen.mp3",
+  "text": "Your suit oxygen is low. Please check the gauge before leaving the pod."
+ },
+ {
+  "group": "intro",
+  "file": "intro_module.mp3",
+  "text": "The module has limited reserves. We need a steady oxygen supply before they run out."
+ },
+ {
+  "group": "intro",
+  "file": "intro_shelter.mp3",
+  "text": "I can see a shelter dome outside, beside a solar lotus. Both may still be useful."
+ },
+ {
+  "group": "intro",
+  "file": "intro_hatch_ready.mp3",
+  "text": "The hatch is responding. Take one breath, then follow the daylight."
+ },
+ {
+  "group": "intro",
+  "file": "intro_hatch_sunrise.mp3",
+  "text": "The hatch is open. Sunrise is rolling over a curved horizon. This is a very small world."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_first_tremor.mp3",
+  "text": "Seismic tremor beneath the forest. The ground shifted, but the trees have not fallen."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_forest_shadow.mp3",
+  "text": "A vast shadow is moving beneath those roots. The whole canopy is rising and settling with it."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_restless.mp3",
+  "text": "Mooladri's roots are tightening around the valley. The forest is dimming as our machines strain its home."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_awake.mp3",
+  "text": "Mooladri has risen. Mossy bark towers above us, its crown of glowing root tips brightening. Living roots have closed the valley."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_calming_start.mp3",
+  "text": "We can help the valley recover. First, we need to learn where Mooladri's roots run."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_roots_hint.mp3",
+  "text": "Use a seismic scan beside the valley. It will trace the living roots beneath our drills."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_roots_scan_done.mp3",
+  "text": "The root map is clear. Move the drills away from every marked root before we continue."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_roots_done.mp3",
+  "text": "The drills are clear. Mooladri's roots have loosened, but the haze remains."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_air_hint.mp3",
+  "text": "Place working bio-filters near the smog and give the air time to clear."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_air_done.mp3",
+  "text": "The haze is thinning. Light is returning to the forest, and Mooladri's crown is steadier."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_bloom_hint.mp3",
+  "text": "The soil is clean now. Replant the bloom spores around Mooladri's exposed roots."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_bloom_done.mp3",
+  "text": "The bloom has taken root. The ground is settling, and new growth is spreading between the old roots."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_calm.mp3",
+  "text": "Mooladri has settled into the forest. The roots have opened a path into the valley."
+ },
+ {
+  "group": "guardian",
+  "file": "guardian_flora_bonus.mp3",
+  "text": "With Mooladri calm, Jivagraha's flora now absorbs pollution twice as quickly. An excellent arrangement for everyone."
+ },
+ {
+  "group": "chamber",
+  "file": "chamber_chamber_glimpse.mp3",
+  "text": "There is a chamber below this seam. Its light does not match the minerals around it."
+ },
+ {
+  "group": "chamber",
+  "file": "chamber_fragment_reading.mp3",
+  "text": "I am detecting a signal consistent with a Quantum Fragment. We need a closer reading before I can confirm it."
+ },
+ {
+  "group": "chamber",
+  "file": "chamber_root_threads.mp3",
+  "text": "Roots thread along the chamber wall. The forest appears to have grown around whatever lies below."
+ },
+ {
+  "group": "chamber",
+  "file": "chamber_chamber_return.mp3",
+  "text": "We cannot reach the chamber safely yet. Let us finish our work above ground and return."
+ },
+ {
+  "group": "liftoff",
+  "file": "liftoff_ship_ready.mp3",
+  "text": "Starter ship ready. Hydrogen and oxygen are flowing to the engines, and the cargo is secure."
+ },
+ {
+  "group": "liftoff",
+  "file": "liftoff_launch_check.mp3",
+  "text": "The launch pad is clear. Our first voyage will be short, provided the navigation system remembers its job."
+ },
+ {
+  "group": "liftoff",
+  "file": "liftoff_rise.mp3",
+  "text": "We are rising above Jivagraha. From here, the shelter is a speck and the forest is a ring of light."
+ },
+ {
+  "group": "liftoff",
+  "file": "liftoff_next_world.mp3",
+  "text": "Our next destination is Taptashila, a mineral-rich world closer to the sun. We will need better shielding there."
+ },
+ {
+  "group": "liftoff",
+  "file": "liftoff_cliffhanger.mp3",
+  "text": "Taptashila is coming into view. I am reading something unusual beneath its oldest rock. We have another question to answer."
+ },
+ {
+  "group": "creature",
+  "file": "creature_first_grazer.mp3",
+  "text": "Give that grazer space to feed and watch it from here. We can be interesting from a distance."
+ },
+ {
+  "group": "creature",
+  "file": "creature_first_burrower.mp3",
+  "text": "Stand back from that small opening and watch the burrower look around. Our welcome appears to be provisional."
+ },
+ {
+  "group": "creature",
+  "file": "creature_first_bird.mp3",
+  "text": "Look above the forest for a small bird circling in daylight. A useful reminder to look up occasionally."
+ },
+ {
+  "group": "creature",
+  "file": "creature_grazer_shy.mp3",
+  "text": "Pause and leave the grazer room to wander; it steps away when we come too close."
+ },
+ {
+  "group": "creature",
+  "file": "creature_burrower_shy.mp3",
+  "text": "Step back from the burrower's opening and wait quietly. It has concluded this meeting."
+ },
+ {
+  "group": "creature",
+  "file": "creature_bird_roost.mp3",
+  "text": "Give the bird's roost some space as dusk falls. Its working day appears to be over."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_wake.mp3",
+  "text": "Follow the daylight through the open hatch to the shelter beside the solar lotus."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_oxygen_supply.mp3",
+  "text": "Gather blue ice, rust-red iron and silica beneath the grass, then press Tab to craft an electrolyzer."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_battery.mp3",
+  "text": "Place a battery on the shelter's power network before sunset and let spare solar power charge it. Darkness accepts no promises."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_smelter.mp3",
+  "text": "Load the powered smelter with iron ore and carbon, then walk close to collect its finished plates."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_automation.mp3",
+  "text": "Research drills and conveyors at a powered station, then press C, click the drill, then click the smelter."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_huxley_message.mp3",
+  "text": "Look for Prof. Huxley's recording on the main deck and press E to listen."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_translator.mp3",
+  "text": "Search the front deck for the translator Prof. Huxley mentioned."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_memory_logs.mp3",
+  "text": "Read any memory log you find with E, then press J to revisit it in the Codex."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_rover.mp3",
+  "text": "Check the vehicle bay's parts list and supply what is missing to finish the rover. Your boots have earned some assistance."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_roots.mp3",
+  "text": "Use a seismic scan beside the valley, then move every drill away from the marked living roots."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_clear_smog.mp3",
+  "text": "Keep bio-filters near the smog supplied with water and power until the haze clears."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_replant_bloom.mp3",
+  "text": "Replant bloom spores around Mooladri's exposed roots once the soil is clean, then give the new growth time to settle."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_fragment_chamber.mp3",
+  "text": "Follow the path Mooladri has opened and scan the unfamiliar light below the seam when the chamber is safely reachable."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_launch_pad.mp3",
+  "text": "Check the launch pad's parts list, gather what is missing, and choose a clear site for assembly."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_starter_ship.mp3",
+  "text": "Finish the ship's listed parts, supply hydrogen and oxygen, and check its cargo before launch."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_lift_off.mp3",
+  "text": "Complete the launch checks and begin lift-off once the pad is clear. My navigation system is preparing its best effort."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_oxygen_supply_touch.mp3",
+  "text": "Gather blue ice, rust-red iron and silica beneath the grass, then tap Bag to craft an electrolyzer."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_automation_touch.mp3",
+  "text": "Research drills and conveyors at a powered station, then tap Belt, then Pick on the drill, then Pick on the smelter."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_huxley_message_touch.mp3",
+  "text": "Look for Prof. Huxley's recording on the main deck and tap Use to listen."
+ },
+ {
+  "group": "stuck",
+  "file": "stuck_memory_logs_touch.mp3",
+  "text": "Read any memory log you find with Use, then tap Codex to revisit it."
+ }
+]

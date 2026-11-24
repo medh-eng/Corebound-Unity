@@ -1,0 +1,26 @@
+{
+ "1": {
+  "item": "silica",
+  "perM3": 0.45
+ },
+ "2": {
+  "item": "silica",
+  "perM3": 0.9
+ },
+ "3": {
+  "item": "iron_ore",
+  "perM3": 2.2
+ },
+ "4": {
+  "item": "ice",
+  "perM3": 2.2
+ },
+ "5": {
+  "item": "carbon",
+  "perM3": 2.2
+ },
+ "6": {
+  "item": "silica",
+  "perM3": 0.9
+ }
+}

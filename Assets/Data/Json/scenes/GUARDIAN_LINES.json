@@ -1,0 +1,16 @@
+{
+ "first_tremor": "Seismic tremor beneath the forest. The ground shifted, but the trees have not fallen.",
+ "forest_shadow": "A vast shadow is moving beneath those roots. The whole canopy is rising and settling with it.",
+ "restless": "Mooladri's roots are tightening around the valley. The forest is dimming as our machines strain its home.",
+ "awake": "Mooladri has risen. Mossy bark towers above us, its crown of glowing root tips brightening. Living roots have closed the valley.",
+ "calming_start": "We can help the valley recover. First, we need to learn where Mooladri's roots run.",
+ "roots_hint": "Use a seismic scan beside the valley. It will trace the living roots beneath our drills.",
+ "roots_scan_done": "The root map is clear. Move the drills away from every marked root before we continue.",
+ "roots_done": "The drills are clear. Mooladri's roots have loosened, but the haze remains.",
+ "air_hint": "Place working bio-filters near the smog and give the air time to clear.",
+ "air_done": "The haze is thinning. Light is returning to the forest, and Mooladri's crown is steadier.",
+ "bloom_hint": "The soil is clean now. Replant the bloom spores around Mooladri's exposed roots.",
+ "bloom_done": "The bloom has taken root. The ground is settling, and new growth is spreading between the old roots.",
+ "calm": "Mooladri has settled into the forest. The roots have opened a path into the valley.",
+ "flora_bonus": "With Mooladri calm, Jivagraha's flora now absorbs pollution twice as quickly. An excellent arrangement for everyone."
+}

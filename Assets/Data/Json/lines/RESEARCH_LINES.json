@@ -1,0 +1,11 @@
+{
+ "auto_drill": "Auto-drill research complete. Build one over rich ground, and let it collect ore while you plan the next step.",
+ "conveyor": "Conveyors ready. Connect a drill to the machine that needs its output. Your backpack may finally have a quiet afternoon.",
+ "power_pylon": "Power pylons ready. Link them to your existing network before building machines farther from the shelter.",
+ "storage_silo": "Storage silos ready. Give your belts somewhere to deliver spare materials. The floor has served admirably, but lacks organisation.",
+ "coal_burner": "Coal power is available. It works through the night, but the smoke is a cost. Keep improving your solar supply.",
+ "silicon_furnace": "Silicon furnace ready. Feed it silica and carbon, then use the silicon to research better equipment.",
+ "backpack_plus": "Four more backpack slots. A remarkable advance in the science of putting things somewhere.",
+ "drill_plus": "Drill upgrade complete. Your auto-drills work faster now. Check that their belts and storage can keep up.",
+ "solar_plus": "Solar output improved. Your lotuses make more power in daylight. Keep enough battery storage for the night."
+}

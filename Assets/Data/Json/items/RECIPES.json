@@ -1,0 +1,133 @@
+[
+ {
+  "out": "electrolyzer",
+  "n": 1,
+  "needs": {
+   "iron_ore": 6,
+   "silica": 4
+  }
+ },
+ {
+  "out": "battery",
+  "n": 1,
+  "needs": {
+   "iron_ore": 4,
+   "carbon": 4
+  }
+ },
+ {
+  "out": "smelter",
+  "n": 1,
+  "needs": {
+   "silica": 10,
+   "iron_ore": 6,
+   "carbon": 2
+  }
+ },
+ {
+  "out": "solar_lotus",
+  "n": 1,
+  "needs": {
+   "silica": 8,
+   "iron_plate": 2
+  }
+ },
+ {
+  "out": "o2_canister",
+  "n": 1,
+  "needs": {
+   "ice": 3
+  }
+ },
+ {
+  "out": "research_station",
+  "n": 1,
+  "needs": {
+   "iron_plate": 6,
+   "silica": 6,
+   "carbon": 2
+  }
+ },
+ {
+  "out": "auto_drill",
+  "n": 1,
+  "needs": {
+   "iron_plate": 6,
+   "silica": 4
+  },
+  "research": "auto_drill"
+ },
+ {
+  "out": "conveyor",
+  "n": 2,
+  "needs": {
+   "iron_plate": 1
+  },
+  "research": "conveyor"
+ },
+ {
+  "out": "storage_silo",
+  "n": 1,
+  "needs": {
+   "iron_plate": 8,
+   "silica": 10
+  },
+  "research": "storage_silo"
+ },
+ {
+  "out": "power_pylon",
+  "n": 1,
+  "needs": {
+   "iron_plate": 2,
+   "carbon": 1
+  },
+  "research": "power_pylon"
+ },
+ {
+  "out": "coal_burner",
+  "n": 1,
+  "needs": {
+   "iron_plate": 6,
+   "silica": 8
+  },
+  "research": "coal_burner"
+ },
+ {
+  "out": "silicon_furnace",
+  "n": 1,
+  "needs": {
+   "iron_plate": 8,
+   "silica": 12,
+   "carbon": 2
+  },
+  "research": "silicon_furnace"
+ },
+ {
+  "out": "bio_filter",
+  "n": 1,
+  "needs": {
+   "iron_plate": 4,
+   "silica": 6,
+   "ice": 4
+  },
+  "research": "bio_filter"
+ },
+ {
+  "out": "settling_pond",
+  "n": 1,
+  "needs": {
+   "silica": 12,
+   "iron_plate": 2
+  },
+  "research": "settling_pond"
+ },
+ {
+  "out": "sabatier_reactor",
+  "n": 1,
+  "needs": {
+   "iron_plate": 8,
+   "silicon": 4
+  },
+  "research": "sabatier_reactor"
+ }
+]

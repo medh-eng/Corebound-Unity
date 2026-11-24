@@ -1,0 +1,142 @@
+[
+ {
+  "id": "wake",
+  "text": "Follow the daylight to the shelter beside the solar lotus",
+  "sarathi": "The hatch is responding. Take one breath, then follow the daylight."
+ },
+ {
+  "id": "ice",
+  "text": "Mine 3 ice — hold the left mouse button on the blue crystals",
+  "sarathi": "The shelter is sound, but its tank is empty. There is ice in the rocks nearby. Use your laser."
+ },
+ {
+  "id": "iron",
+  "text": "Mine 6 iron ore from the rust-red boulders",
+  "sarathi": "Good. Ice gives us water, and water gives us air. We need iron to build the machine that splits it."
+ },
+ {
+  "id": "silica",
+  "text": "Dig 4 silica — laser the ground; sandstone below gives more",
+  "sarathi": "Sandstone is mostly silica. Dig into the ground below the grass — I will count what you collect."
+ },
+ {
+  "id": "craft_elec",
+  "text": "Open your backpack (Tab) and craft an electrolyzer",
+  "sarathi": "You have everything for an electrolyzer. It splits ice into oxygen and hydrogen."
+ },
+ {
+  "id": "place_elec",
+  "text": "Place the electrolyzer near your shelter (B, then click)",
+  "sarathi": "Set it close to the shelter so its air pipes reach inside."
+ },
+ {
+  "id": "load_ice",
+  "text": "Load it with ice — walk up to it and press E",
+  "sarathi": "The solar lotus will power it while the sun is up."
+ },
+ {
+  "id": "breathe",
+  "text": "Step into your shelter and breathe",
+  "sarathi": "Electrolysis complete. You are breathing. I consider that a good start."
+ },
+ {
+  "id": "battery",
+  "text": "Find carbon (black rocks), craft a battery and place it",
+  "sarathi": "Night is coming. Solar power will fall to zero. I recommend a battery. And perhaps a blanket."
+ },
+ {
+  "id": "night",
+  "text": "Survive your first night on Jivagraha",
+  "sarathi": "The forest is glowing. I have never seen anything like it. Or… I do not remember seeing it."
+ },
+ {
+  "id": "smelter",
+  "text": "Craft a smelter, load it with iron ore and carbon (E), and collect 4 iron plates",
+  "sarathi": "Iron plates mean real machines. Careful — smelting makes smoke, and this world notices."
+ },
+ {
+  "id": "research_station",
+  "text": "Craft a research station and place it near the shelter (B)",
+  "sarathi": "Carrying everything by hand will not scale. A research station can work out machines that do it for us."
+ },
+ {
+  "id": "research_drill",
+  "text": "Research the auto-drill: press E at the station, choose it, load the parts",
+  "sarathi": "Give the station the parts it asks for. It needs power while it thinks."
+ },
+ {
+  "id": "place_drill",
+  "text": "Craft an auto-drill and place it on rich ground — it shows what lies beneath",
+  "sarathi": "The drill mines whatever is under it. Iron veins run in thin stripes; look for rich ground."
+ },
+ {
+  "id": "research_belt",
+  "text": "Research conveyors at the research station",
+  "sarathi": "A drill that nobody empties will fill up and stop. We need belts."
+ },
+ {
+  "id": "belt",
+  "text": "Craft conveyors, press C, click the drill, then click the smelter",
+  "sarathi": "A belt from the drill to the smelter, and the smelter never waits for you again."
+ },
+ {
+  "id": "auto_plates",
+  "text": "Make 5 iron plates from ore that came by belt (keep the smelter fed with carbon)",
+  "sarathi": "Iron plates, made while you were not looking. I believe this is called a factory."
+ },
+ {
+  "id": "huxley_message",
+  "text": "Return to the escape module; press E at Prof. Huxley's projector by the hatch",
+  "sarathi": "Return to the module and listen to Prof. Huxley's recording by the hatch. The factory can manage a short absence."
+ },
+ {
+  "id": "translator",
+  "text": "Press E to collect the translator beside the escape module",
+  "sarathi": "Collect the translator beside the escape module, as Prof. Huxley suggested."
+ },
+ {
+  "id": "memory_logs",
+  "text": "Follow the blue beams to find 3 memory logs; press E to read each one",
+  "sarathi": "Follow the blue beams to find three memory logs scattered by the crash and read each one."
+ },
+ {
+  "id": "harmony_look",
+  "text": "Press M to see the whole planet — and how healthy it is",
+  "sarathi": "Our machines make smoke and stir up mud. The planet notices. Look at it from above."
+ },
+ {
+  "id": "guardian_find",
+  "text": "Follow the tremor to the forest valley: walk towards the pale-green light",
+  "sarathi": "Seismic tremor beneath the forest. The ground shifted, but the trees have not fallen."
+ },
+ {
+  "id": "seismic_scan",
+  "text": "Hold Scan beside the valley to trace the living roots.",
+  "sarathi": "Hold Scan beside the valley to trace the roots beneath our drills."
+ },
+ {
+  "id": "move_drills",
+  "text": "Move every drill clear of the marked roots.",
+  "sarathi": "Move every drill away from the marked roots so they have room to settle."
+ },
+ {
+  "id": "bio_filters_valley",
+  "text": "Keep working bio-filters near the smog until the haze clears.",
+  "sarathi": "Supply bio-filters near the smog with water and power until the haze clears."
+ },
+ {
+  "id": "replant_bloom",
+  "text": "Replant bloom spores around Mooladri's exposed roots once the soil is clean.",
+  "sarathi": "Replant bloom spores around the exposed roots once the soil is clean, then give the new growth time to settle."
+ },
+ {
+  "id": "valley_calm",
+  "text": "Give Mooladri time to settle",
+  "sarathi": "Stay a moment. The roots are loosening."
+ },
+ {
+  "id": "done",
+  "text": "Walk the valley path Mooladri opened, and keep your shelter breathing",
+  "sarathi": "With Mooladri calm, Jivagraha's flora now absorbs pollution twice as quickly. An excellent arrangement for everyone."
+ }
+]

@@ -1,0 +1,38 @@
+{
+ "jivagraha": {
+  "name": "Deepajana",
+  "deva": "दीपजन",
+  "say": "DEE-puh-JUH-nuh",
+  "meaning": "lamp-folk"
+ },
+ "taptashila": {
+  "name": "Khanik",
+  "deva": "खनिक",
+  "say": "KHUH-nik",
+  "meaning": "miners"
+ },
+ "marubhumi": {
+  "name": "Maruyatri",
+  "deva": "मरुयात्री",
+  "say": "MUH-roo-YAA-tree",
+  "meaning": "desert travellers"
+ },
+ "himasagara": {
+  "name": "Jalabandhu",
+  "deva": "जलबन्धु",
+  "say": "JUH-luh-BUN-dhoo",
+  "meaning": "water-friends"
+ },
+ "vayumandala": {
+  "name": "Patangajana",
+  "deva": "पतंगजन",
+  "say": "puh-TUN-guh-JUH-nuh",
+  "meaning": "kite-folk"
+ },
+ "vishamegha": {
+  "name": "Shvasajana",
+  "deva": "श्वासजन",
+  "say": "SHVAAS-uh-JUH-nuh",
+  "meaning": "breath-folk"
+ }
+}

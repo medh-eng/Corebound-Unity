@@ -1,0 +1,17 @@
+{
+ "lowOxygen": "Oxygen below twenty-five percent. Get to the shelter, or breathe a canister with Q.",
+ "blackout": "You blacked out. I carried you back to the shelter. Please do not make me do that again.",
+ "nightFalls": "The sun is setting. Solar output dropping.",
+ "sunrise": "Sunrise. Solar power returning.",
+ "backpackFull": "Your backpack is full. Craft something, or we will need machines to carry more.",
+ "tooClose": "Not here — I will not let you dig under the shelter.",
+ "researched": "Research complete:",
+ "noPower": "That machine has no power. Build it within 30 m of the shelter, or carry power out with pylons.",
+ "drillFull": "A drill is full and has stopped. Empty it, or give it a belt.",
+ "fault": "Acid rain is getting into the machines. Walk up to any that need attention and press E.",
+ "bandThriving": "The forest is thriving. Look — blooms are opening.",
+ "bandStable": "The air is getting heavier. The forest is holding on.",
+ "bandStressed": "The forest is wilting and the rain is turning sour. Build filters, or slow the smelters.",
+ "bandCollapse": "Jivagraha is struggling to breathe. Something deep below is restless.",
+ "bloomFirst": "A bloom. It grew because the world is clean. Research can use it."
+}

@@ -1,0 +1,183 @@
+{
+ "ice": {
+  "id": "ice",
+  "name": "Ice",
+  "color": "#a8e6ff",
+  "stack": 50,
+  "note": "Frozen water. Split it for oxygen."
+ },
+ "iron_ore": {
+  "id": "iron_ore",
+  "name": "Iron ore",
+  "color": "#c0563a",
+  "stack": 50,
+  "note": "Rust-red rock rich in iron oxide (Fe₂O₃)."
+ },
+ "silica": {
+  "id": "silica",
+  "name": "Silica",
+  "color": "#f1e3c4",
+  "stack": 50,
+  "note": "Sandstone grains (SiO₂). Glass and solar cells start here."
+ },
+ "carbon": {
+  "id": "carbon",
+  "name": "Carbon",
+  "color": "#3a3440",
+  "stack": 50,
+  "note": "Black seams of ancient plant matter."
+ },
+ "iron_plate": {
+  "id": "iron_plate",
+  "name": "Iron plate",
+  "color": "#9aa3ad",
+  "stack": 50,
+  "note": "Smelted iron. Carbon pulls the oxygen out of the ore (and leaves smoke)."
+ },
+ "silicon": {
+  "id": "silicon",
+  "name": "Silicon",
+  "color": "#7b8ea8",
+  "stack": 50,
+  "note": "Pure silicon, baked out of silica with carbon. The heart of solar cells and chips."
+ },
+ "o2_canister": {
+  "id": "o2_canister",
+  "name": "O₂ canister",
+  "color": "#5cc8ff",
+  "stack": 10,
+  "note": "Press Q to breathe it: +40% oxygen."
+ },
+ "hydrogen": {
+  "id": "hydrogen",
+  "name": "Hydrogen",
+  "color": "#e6f0ff",
+  "stack": 50,
+  "note": "Left over when the electrolyzer splits water. A Sabatier reactor turns it into fuel."
+ },
+ "methane": {
+  "id": "methane",
+  "name": "Methane",
+  "color": "#8fd16a",
+  "stack": 50,
+  "note": "Fuel made from CO₂ and hydrogen. Rockets will need it."
+ },
+ "bloom": {
+  "id": "bloom",
+  "name": "Bloom",
+  "color": "#ff9ad5",
+  "stack": 20,
+  "note": "A rare glowing flower that only grows where the air, water and soil are clean."
+ },
+ "conveyor": {
+  "id": "conveyor",
+  "name": "Conveyor",
+  "color": "#d9b48a",
+  "stack": 50,
+  "note": "Belt sections, 2 m each. Press C to lay a belt from one machine to another."
+ },
+ "electrolyzer": {
+  "id": "electrolyzer",
+  "name": "Electrolyzer",
+  "color": "#7fd6ff",
+  "stack": 3,
+  "placeable": "electrolyzer",
+  "note": "Splits ice into oxygen and hydrogen. Feeds your shelter."
+ },
+ "battery": {
+  "id": "battery",
+  "name": "Battery",
+  "color": "#5cffd6",
+  "stack": 5,
+  "placeable": "battery",
+  "note": "Stores solar power for the night."
+ },
+ "solar_lotus": {
+  "id": "solar_lotus",
+  "name": "Solar lotus",
+  "color": "#4a6cff",
+  "stack": 5,
+  "placeable": "solar_lotus",
+  "note": "Turns sunlight into power. Useless at night."
+ },
+ "smelter": {
+  "id": "smelter",
+  "name": "Smelter",
+  "color": "#e08a3a",
+  "stack": 3,
+  "placeable": "smelter",
+  "note": "Turns iron ore and carbon into iron plates. Needs 3 kW. Smokes."
+ },
+ "research_station": {
+  "id": "research_station",
+  "name": "Research station",
+  "color": "#9fe8ff",
+  "stack": 2,
+  "placeable": "research_station",
+  "note": "Works out new machines from the parts you give it."
+ },
+ "auto_drill": {
+  "id": "auto_drill",
+  "name": "Auto-drill",
+  "color": "#f0b46a",
+  "stack": 5,
+  "placeable": "auto_drill",
+  "note": "Mines whatever lies under it, forever. Place it over rich ground."
+ },
+ "storage_silo": {
+  "id": "storage_silo",
+  "name": "Storage silo",
+  "color": "#e8dcc6",
+  "stack": 3,
+  "placeable": "storage_silo",
+  "note": "Holds 300 items. Belts can fill it and empty it."
+ },
+ "power_pylon": {
+  "id": "power_pylon",
+  "name": "Power pylon",
+  "color": "#ffcf6a",
+  "stack": 10,
+  "placeable": "power_pylon",
+  "note": "Carries power 14 m further. Pylons link to each other up to 26 m apart."
+ },
+ "coal_burner": {
+  "id": "coal_burner",
+  "name": "Coal burner",
+  "color": "#c25a3a",
+  "stack": 3,
+  "placeable": "coal_burner",
+  "note": "Burns carbon for 5 kW, day and night. Smoky."
+ },
+ "silicon_furnace": {
+  "id": "silicon_furnace",
+  "name": "Silicon furnace",
+  "color": "#b7c6e0",
+  "stack": 3,
+  "placeable": "silicon_furnace",
+  "note": "Bakes silica with carbon into silicon. Needs 3 kW."
+ },
+ "bio_filter": {
+  "id": "bio_filter",
+  "name": "Bio-filter",
+  "color": "#5fd38a",
+  "stack": 3,
+  "placeable": "bio_filter",
+  "note": "Algae clean the air while it has power."
+ },
+ "settling_pond": {
+  "id": "settling_pond",
+  "name": "Settling pond",
+  "color": "#6fb6c9",
+  "stack": 3,
+  "placeable": "settling_pond",
+  "note": "Lets mud and grit sink out of dirty water. Cleans water and soil, needs no power."
+ },
+ "sabatier_reactor": {
+  "id": "sabatier_reactor",
+  "name": "Sabatier reactor",
+  "color": "#9fd16a",
+  "stack": 2,
+  "placeable": "sabatier_reactor",
+  "note": "Turns CO₂ from the air and hydrogen into methane fuel and water."
+ }
+}

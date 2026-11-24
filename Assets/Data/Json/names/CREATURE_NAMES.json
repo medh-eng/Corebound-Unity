@@ -1,0 +1,95 @@
+{
+ "glow_moth": {
+  "name": "Jyotishalabha",
+  "deva": "ज्योतिशलभ",
+  "say": "JYOH-tee-SHUH-luh-bhuh",
+  "meaning": "light-moth"
+ },
+ "rock_crab": {
+  "name": "Golakarka",
+  "deva": "गोलकर्क",
+  "say": "GOH-luh-KUR-kuh",
+  "meaning": "round-crab"
+ },
+ "mountain_grazer": {
+  "name": "Lavana",
+  "deva": "लवण",
+  "say": "LUH-vun",
+  "meaning": "salt, mineral"
+ },
+ "szynthar": {
+  "name": "Szynthar",
+  "deva": "सिन्थार",
+  "say": "SIN-thar",
+  "meaning": "Medhanshu's own name"
+ },
+ "savannah_grazer": {
+  "name": "Lambagriva",
+  "deva": "लम्बग्रीव",
+  "say": "LUM-buh-GREE-vuh",
+  "meaning": "long-neck"
+ },
+ "sand_swimmer": {
+  "name": "Marumina",
+  "deva": "मरुमीन",
+  "say": "MUH-roo-MEEN",
+  "meaning": "desert-fish"
+ },
+ "light_jellyfish": {
+  "name": "Tarakajala",
+  "deva": "तारकाजल",
+  "say": "TAA-ruh-KAA-jul",
+  "meaning": "star-water"
+ },
+ "ice_crab": {
+  "name": "Himakarka",
+  "deva": "हिमकर्क",
+  "say": "HEE-muh-KUR-kuh",
+  "meaning": "ice-crab"
+ },
+ "balloon": {
+  "name": "Meghapota",
+  "deva": "मेघपोट",
+  "say": "MAY-ghuh-POTE",
+  "meaning": "cloud-belly"
+ },
+ "ribbon_glider": {
+  "name": "Tarangini",
+  "deva": "तरंगिणी",
+  "say": "tuh-RUN-gi-nee",
+  "meaning": "the flowing one"
+ },
+ "acid_beetle": {
+  "name": "Kathorakita",
+  "deva": "कठोरकीट",
+  "say": "kuh-THOR-uh-KEET",
+  "meaning": "hard-shelled beetle"
+ },
+ "cloud_ray": {
+  "name": "Neelachhaya",
+  "deva": "नीलछाया",
+  "say": "NEEL-uh-CHHAA-yaa",
+  "meaning": "blue shadow"
+ },
+ "grazer": {
+  "name": "Mridugami",
+  "deva": "मृदुगामी",
+  "say": "MRID-oo-GAA-mee",
+  "meaning": "gentle-goer",
+  "voice": "Mri du gaa mi"
+ },
+ "burrower": {
+  "name": "Bilavasa",
+  "deva": "बिलवास",
+  "say": "BIL-uh-VAAS",
+  "meaning": "burrow-dweller",
+  "voice": "Bi la vaa saa"
+ },
+ "bird": {
+  "name": "Divachari",
+  "deva": "दिवाचरी",
+  "say": "DIV-aa-CHUH-ree",
+  "meaning": "day-wanderer",
+  "voice": "Di vaa cha ri"
+ }
+}

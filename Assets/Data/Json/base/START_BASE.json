@@ -1,0 +1,21 @@
+{
+ "shelterDome": {
+  "forward": 12,
+  "right": 7.5,
+  "yawDeg": 0
+ },
+ "solarLotus": {
+  "forward": 15.5,
+  "right": 0.5,
+  "yawDeg": 25
+ },
+ "chimney": {
+  "angleDeg": 140,
+  "up": 3,
+  "out": 1.55
+ },
+ "path": {
+  "stones": 9,
+  "spacing": 1.5
+ }
+}

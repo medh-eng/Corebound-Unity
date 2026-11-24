@@ -1,0 +1,18 @@
+{
+ "seismic_scan": {
+  "text": "Hold Scan beside the valley to trace the living roots.",
+  "sarathi": "Hold Scan beside the valley to trace the roots beneath our drills."
+ },
+ "move_drills": {
+  "text": "Move every drill clear of the marked roots.",
+  "sarathi": "Move every drill away from the marked roots so they have room to settle."
+ },
+ "bio_filters_valley": {
+  "text": "Keep working bio-filters near the smog until the haze clears.",
+  "sarathi": "Supply bio-filters near the smog with water and power until the haze clears."
+ },
+ "replant_bloom": {
+  "text": "Replant bloom spores around Mooladri's exposed roots once the soil is clean.",
+  "sarathi": "Replant bloom spores around the exposed roots once the soil is clean, then give the new growth time to settle."
+ }
+}

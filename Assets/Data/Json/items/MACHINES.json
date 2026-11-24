@@ -1,0 +1,187 @@
+{
+ "solar_lotus": {
+  "id": "solar_lotus",
+  "name": "Solar lotus",
+  "radius": 0.6,
+  "height": 2.6,
+  "powerKW": 4,
+  "note": "Makes up to 4 kW in full sun."
+ },
+ "battery": {
+  "id": "battery",
+  "name": "Battery",
+  "radius": 0.6,
+  "height": 1.5,
+  "powerKW": 0,
+  "storeKWh": 20,
+  "note": "Stores 20 kWh."
+ },
+ "electrolyzer": {
+  "id": "electrolyzer",
+  "name": "Electrolyzer",
+  "radius": 0.8,
+  "height": 1.7,
+  "powerKW": -2.5,
+  "note": "Uses 2.5 kW and ice to make oxygen for the shelter.",
+  "accepts": {
+   "ice": 20
+  },
+  "process": {
+   "needs": {
+    "ice": 1
+   },
+   "makes": {
+    "hydrogen": 1
+   },
+   "seconds": 6,
+   "o2": 6,
+   "vent": true
+  },
+  "outCap": 20
+ },
+ "smelter": {
+  "id": "smelter",
+  "name": "Smelter",
+  "radius": 1.1,
+  "height": 2.6,
+  "powerKW": -3,
+  "note": "Uses 3 kW. 2 iron ore + 1 carbon → 1 iron plate.",
+  "accepts": {
+   "iron_ore": 20,
+   "carbon": 10
+  },
+  "process": {
+   "needs": {
+    "iron_ore": 2,
+    "carbon": 1
+   },
+   "makes": {
+    "iron_plate": 1
+   },
+   "seconds": 8
+  },
+  "outCap": 20
+ },
+ "silicon_furnace": {
+  "id": "silicon_furnace",
+  "name": "Silicon furnace",
+  "radius": 0.7,
+  "height": 2.4,
+  "powerKW": -3,
+  "note": "Uses 3 kW. 2 silica + 1 carbon → 1 silicon.",
+  "accepts": {
+   "silica": 20,
+   "carbon": 10
+  },
+  "process": {
+   "needs": {
+    "silica": 2,
+    "carbon": 1
+   },
+   "makes": {
+    "silicon": 1
+   },
+   "seconds": 10
+  },
+  "outCap": 20
+ },
+ "coal_burner": {
+  "id": "coal_burner",
+  "name": "Coal burner",
+  "radius": 1.1,
+  "height": 2.2,
+  "powerKW": 5,
+  "note": "Makes 5 kW while it has carbon (one every 30 s).",
+  "accepts": {
+   "carbon": 20
+  },
+  "process": {
+   "needs": {
+    "carbon": 1
+   },
+   "seconds": 30,
+   "fuel": true
+  }
+ },
+ "auto_drill": {
+  "id": "auto_drill",
+  "name": "Auto-drill",
+  "radius": 1.2,
+  "height": 2.5,
+  "powerKW": -2,
+  "note": "Uses 2 kW. Mines what lies beneath it.",
+  "drill": {
+   "seconds": 5
+  },
+  "outCap": 20
+ },
+ "storage_silo": {
+  "id": "storage_silo",
+  "name": "Storage silo",
+  "radius": 1,
+  "height": 3,
+  "powerKW": 0,
+  "note": "Holds 300 items of any kind.",
+  "storage": 300
+ },
+ "research_station": {
+  "id": "research_station",
+  "name": "Research station",
+  "radius": 1.1,
+  "height": 2.4,
+  "powerKW": -1.5,
+  "note": "Uses 1.5 kW while researching.",
+  "research": true
+ },
+ "bio_filter": {
+  "id": "bio_filter",
+  "name": "Bio-filter",
+  "radius": 1.3,
+  "height": 2,
+  "powerKW": -1.5,
+  "note": "Uses 1.5 kW. Cleans the air.",
+  "filter": true
+ },
+ "settling_pond": {
+  "id": "settling_pond",
+  "name": "Settling pond",
+  "radius": 1.6,
+  "height": 0.6,
+  "powerKW": 0,
+  "note": "Cleans water and soil, slowly, always.",
+  "filter": true
+ },
+ "sabatier_reactor": {
+  "id": "sabatier_reactor",
+  "name": "Sabatier reactor",
+  "radius": 1.35,
+  "height": 2.1,
+  "powerKW": -1.5,
+  "note": "Uses 1.5 kW. CO₂ + 4 H₂ → CH₄ + 2 H₂O: cleans the air and makes methane.",
+  "accepts": {
+   "hydrogen": 20
+  },
+  "process": {
+   "needs": {
+    "hydrogen": 2
+   },
+   "makes": {
+    "methane": 1
+   },
+   "seconds": 10
+  },
+  "outCap": 20
+ },
+ "power_pylon": {
+  "id": "power_pylon",
+  "name": "Power pylon",
+  "radius": 0.35,
+  "height": 4.2,
+  "powerKW": 0,
+  "note": "Carries power 14 m; links to pylons up to 26 m away.",
+  "pylon": {
+   "range": 14,
+   "link": 26
+  }
+ }
+}

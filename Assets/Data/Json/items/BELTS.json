@@ -1,0 +1,7 @@
+{
+ "speed": 1.6,
+ "spacing": 0.55,
+ "maxLength": 30,
+ "metresPerItem": 2,
+ "maxIn": 3
+}

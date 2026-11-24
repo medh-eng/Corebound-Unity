@@ -1,0 +1,22 @@
+{
+ "seismic_scan": {
+  "line": "roots_scan_done",
+  "nextLine": false
+ },
+ "move_drills": {
+  "line": "roots_done",
+  "nextLine": true
+ },
+ "bio_filters_valley": {
+  "line": "air_done",
+  "nextLine": true
+ },
+ "replant_bloom": {
+  "line": "bloom_done",
+  "nextLine": false
+ },
+ "valley_calm": {
+  "line": "calm",
+  "nextLine": true
+ }
+}

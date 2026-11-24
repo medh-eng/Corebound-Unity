@@ -1,0 +1,11 @@
+{
+ "roots_blocked": "Living roots close the valley. Give them room.",
+ "seismic_scan_hold": "Keep holding Scan to trace the roots.",
+ "root_marked": "Living root marked.",
+ "drill_on_root": "Move this drill clear of the marked roots.",
+ "bloom_spores_plant": "Press E to plant bloom spores here.",
+ "bloom_spores_wrong": "The soil is not clean enough for planting yet.",
+ "valley_open": "Mooladri is calm. The valley path is open.",
+ "bloom_spores_none": "Bring a bloom to plant here: collect one with the laser.",
+ "drill_place_on_root": "Not on a marked root: give the roots room."
+}

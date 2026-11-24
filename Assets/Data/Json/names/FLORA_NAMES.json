@@ -1,0 +1,72 @@
+{
+ "banyan": {
+  "name": "Jyotivata",
+  "deva": "ज्योतिवट",
+  "say": "JYOH-tee-vut",
+  "meaning": "light-banyan",
+  "voice": "Jyoh tee vaa taa"
+ },
+ "mushroom_tree": {
+  "name": "Deepashirsha",
+  "deva": "दीपशीर्ष",
+  "say": "DEEP-uh-SHEER-shuh",
+  "meaning": "lamp-headed",
+  "voice": "Dee pa sheer shaa"
+ },
+ "glow_mushroom": {
+  "name": "Jyotiguccha",
+  "deva": "ज्योतिगुच्छ",
+  "say": "JYOH-tee-GOO-chhuh",
+  "meaning": "light-cluster",
+  "voice": "Jyoh tee gooch chhaa"
+ },
+ "fern": {
+  "name": "Deepalata",
+  "deva": "दीपलता",
+  "say": "DEEP-uh-LUH-taa",
+  "meaning": "lamp-creeper",
+  "voice": "Dee pa la taa"
+ },
+ "lotus_pad": {
+  "name": "Shantakamala",
+  "deva": "शान्तकमल",
+  "say": "SHAAN-tuh-KUH-mul",
+  "meaning": "calm lotus",
+  "voice": "Shaan ta ka ma la"
+ },
+ "ice_crystal": {
+  "name": "Sheetashikhara",
+  "deva": "शीतशिखर",
+  "say": "SHEE-tuh-SHEE-khuh-ruh",
+  "meaning": "cold spire",
+  "voice": "Shee ta shi kha ra"
+ },
+ "iron_ore": {
+  "name": "Lohashila",
+  "deva": "लोहशिला",
+  "say": "LOH-huh-SHEE-laa",
+  "meaning": "iron-rock",
+  "voice": "Lo ha shi laa"
+ },
+ "carbon": {
+  "name": "Kajjala",
+  "deva": "कज्जल",
+  "say": "KUJ-juh-luh",
+  "meaning": "lamp-black, soot",
+  "voice": "Kuj ja la"
+ },
+ "sandstone": {
+  "name": "Dhavala",
+  "deva": "धवल",
+  "say": "DHUH-vuh-luh",
+  "meaning": "white, pale",
+  "voice": "Dha va la"
+ },
+ "bloom": {
+  "name": "Sakshi",
+  "deva": "साक्षी",
+  "say": "SAAK-shee",
+  "meaning": "witness",
+  "voice": "Saak shee"
+ }
+}

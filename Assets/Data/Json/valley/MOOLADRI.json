@@ -1,0 +1,46 @@
+{
+ "place": {
+  "forward": 8,
+  "right": -60
+ },
+ "height": 12,
+ "restSink": 5.5,
+ "riseSeconds": 7,
+ "settleSeconds": 9,
+ "clearRadius": 17,
+ "wakeAt": 26,
+ "shadowAt": 42,
+ "gate": {
+  "back": 13,
+  "width": 9,
+  "arches": 4
+ },
+ "scan": {
+  "range": 32,
+  "seconds": 3
+ },
+ "rootClear": 2.6,
+ "maxRootsToDrills": 6,
+ "wanderRoots": 3,
+ "airOnWake": 30,
+ "airClear": 15,
+ "soilClean": 20,
+ "plantSpots": 3,
+ "plantRadius": 7.5,
+ "plantReach": 2.2,
+ "bloomEverySec": 25,
+ "logs": [
+  {
+   "id": "log_08",
+   "forward": -3,
+   "right": 11,
+   "buried": true
+  },
+  {
+   "id": "log_09",
+   "forward": 6.5,
+   "right": -4,
+   "buried": false
+  }
+ ]
+}
